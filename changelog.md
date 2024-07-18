@@ -1,4 +1,4 @@
-## Release 1.0
+## _Release 1.1_
 - Transitions tweaked, now will sound a bit smoother.
 - BGM takes less time to fade in when loading into the fight.
 
